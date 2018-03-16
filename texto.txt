@@ -1,0 +1,26 @@
+
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet Ethernet 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : sena.red
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Wi-Fi:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : sena.red
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::ed1a:57f0:6dde:9afd%5
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 10.73.75.44
+   M scara de subred . . . . . . . . . . . . : 255.255.255.128
+   Puerta de enlace predeterminada . . . . . : 10.73.75.1
+
+Adaptador de t£nel isatap.sena.red:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : sena.red
